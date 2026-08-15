@@ -1,0 +1,6 @@
+{
+  "name": "AI Music Studio",
+  "description": "Production-ready AI Music creation platform with Own-Voice song generation, lyrics director, and professional music studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
